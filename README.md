@@ -24,6 +24,7 @@ My name is Sanjeev Kotha and I'm a third year Honors Computing Science major at 
 ![](https://img.shields.io/badge/Version_Control-Git-informational?style=flat&logo=git&logoColor=white&color=%23F05033)
 ![](https://img.shields.io/badge/Other-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=00979D)
 
+## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/solarcreature/solarcreature">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solarcreature&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
