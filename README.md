@@ -37,8 +37,8 @@ My name is Sanjeev Kotha and I'm a third year Honors Computing Science major at 
 </a>
 
 
-<a href="https://github.com/solarcreature/django3-todo-woo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=solarcreature&repo=django3-todo-woo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/solarcreature/Memory">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=solarcreature&repo=Memory&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
 
 
