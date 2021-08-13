@@ -1,5 +1,5 @@
 
-[![Header](https://github.com/solarcreature/solarcreature/blob/main/Header_Git.png?raw=true "Header")](https://some-url.dev/)
+[![Header](https://github.com/solarcreature/solarcreature/blob/main/readme_head.png?raw=true"Header")](https://some-url.dev/)
 
 ### Hi there 👋
 
