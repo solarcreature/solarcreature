@@ -3,7 +3,7 @@
 
 
 
-My name is Sanjeev Kotha and I'm a third year Honors Computing Science major at University of Alberta. I'm from India, living in Edmonton, Canada. You can find me on [Linked In(https://www.linkedin.com/in/sanjeev-kotha/)]
+My name is Sanjeev Kotha and I'm a third year Honors Computing Science major at University of Alberta. I'm from India, living in Edmonton, Canada. You can find me on [Linked In](https://www.linkedin.com/in/sanjeev-kotha/)
 
 ## 🔧 Technologies & Tools
 ### Proficient:
