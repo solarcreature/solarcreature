@@ -1,7 +1,7 @@
 
 [![Header](https://github.com/solarcreature/solarcreature/blob/main/readme_head.png?raw=true"Header")](https://some-url.dev/)
 
-# Hello, folks! <img src="https://github.com/solarcreature/solarcreature/blob/main/wave-hello.gif?raw=true" width="30px">
+
 
 My name is Sanjeev Kotha and I'm a third year Honors Computing Science major at University of Alberta. I'm from India, living in Edmonton, Canada. You can find me on [![LinkedIn](https://github.com/solarcreature/solarcreature/blob/main/linkedin-3-16.png?raw=true)](https://www.linkedin.com/in/sanjeev-kotha/)
 
