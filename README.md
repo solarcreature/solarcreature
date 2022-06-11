@@ -25,6 +25,7 @@ My name is Sanjeev Kotha and I'm a third year Honors Computing Science major at 
 ![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=%23092E20)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=%2361DAFB&color=%2320232a)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=%234ea94b)
+![](https://img.shields.io/badge/Database-Redis-informational?style=flat&logo=redis&logoColor=red&color=%234ea94b)
 ![](https://img.shields.io/badge/ML-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=%23FF6F00)
 ![](https://img.shields.io/badge/IDE-Android_Studio-informational?style=flat&logo=android&logoColor=white&color=3DDC84)
 ![](https://img.shields.io/badge/Other-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=00979D)
