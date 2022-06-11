@@ -20,6 +20,7 @@ My name is Sanjeev Kotha and I'm a third year Honors Computing Science major at 
 
 
 ### Familiar:
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=blue&color=white)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=%23F7DF1E&color=%23323330)
 ![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=%23092E20)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=%2361DAFB&color=%2320232a)
