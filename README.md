@@ -39,8 +39,8 @@ My name is Sanjeev Kotha and I'm a third year Honors Computing Science major at 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=solarcreature&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sanjeev's GitHub Stats" />
 </a>
 
-<a href="https://github.com/solarcreature/CrowdTrials">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=solarcreature&repo=CrowdTrials&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/solarcreature/SentiChat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=solarcreature&repo=SentiChat&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
