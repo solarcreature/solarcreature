@@ -5,8 +5,11 @@
 
 My name is Sanjeev Kotha and I'm a third year Honors Computing Science major at University of Alberta. I'm from Hyderabad, India and currently living in Edmonton, Canada. You can find me on [Linked In](https://www.linkedin.com/in/sanjeev-kotha/)
 
+<p align="center">
 🎧 listening to: <br></samp>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a0mlfz3rt5z8c728j7v2maav6&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile) <br>
+</p>
+
 ## 🔧 Technologies & Tools
 ### Proficient:
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=%2300599C)
