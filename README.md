@@ -12,8 +12,7 @@ My name is Sanjeev Kotha and I'm a third year Honors Computing Science major at 
 
 ## 🔧 Technologies & Tools
 ### Proficient:
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=%2300599C)
-![](https://img.shields.io/badge/Code-Borland_C++-informational?style=flat&logo=cplusplus&logoColor=white&color=%2300599C)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=%2300599C)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=ffdd54&color=3670A0)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=%23ED8B00)
 ![](https://img.shields.io/badge/Version_Control-Git-informational?style=flat&logo=git&logoColor=white&color=%23F05033)
