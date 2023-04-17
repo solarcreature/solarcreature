@@ -1,30 +1,39 @@
-🎧 listening to: <br></samp>
+## 🎧 Currently Vibing To: <br></samp>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a0mlfz3rt5z8c728j7v2maav6&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile) <br>
 
 
 ## 🔧 Technologies & Tools
-### Proficient:
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=%2300599C)
+#### Languages:
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=ffdd54&color=3670A0)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=%2300599C)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=%23ED8B00)
+![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=29BEB0)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=CC2927)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
+![](https://img.shields.io/badge/Code-HTML/CSS-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
+
+#### Technologies:
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=%2361DAFB)
+![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=092E20)
+![](https://img.shields.io/badge/Testing-JUnit-informational?style=flat&logo=junit5&logoColor=white&color=25A162)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248)
+![](https://img.shields.io/badge/Database-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=FFCA28)
+![](https://img.shields.io/badge/Framework-Material_UI-informational?style=flat&logo=material-ui&logoColor=white&color=0081CB)
+![](https://img.shields.io/badge/Framework-DRF-informational?style=flat&logo=django&logoColor=white&color=092E20)
+![](https://img.shields.io/badge/API-REST-informational?style=flat&logo=rest&logoColor=white&color=DD0031)
+![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next-dot-js&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Database-Redis-informational?style=flat&logo=redis&logoColor=white&color=DC382D)
+![](https://img.shields.io/badge/Framework-Gin-informational?style=flat&logo=go&logoColor=white&color=29BEB0)
+
+#### Developer Tools:
 ![](https://img.shields.io/badge/Version_Control-Git-informational?style=flat&logo=git&logoColor=white&color=%23F05033)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=%2300f)
-![](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=%2307405e)
+![](https://img.shields.io/badge/Code_Review-Gerrit-informational?style=flat&logo=gerrit&logoColor=white&color=4F75B3)
+![](https://img.shields.io/badge/CI%2FCD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=D24939)
+![](https://img.shields.io/badge/CI%2FCD-Azure_DevOps_Server-informational?style=flat&logo=azuredevops&logoColor=white&color=%230078D7)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=black&color=FCC624)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0078D6)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=vscode&logoColor=white&color=0078d7)
-
-
-### Familiar:
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=blue&color=white)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=%23F7DF1E&color=%23323330)
-![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=%23092E20)
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=%2361DAFB&color=%2320232a)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=%234ea94b)
-![](https://img.shields.io/badge/Database-Redis-informational?style=flat&logo=redis&logoColor=red&color=red)
-![](https://img.shields.io/badge/ML-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=%23FF6F00)
-![](https://img.shields.io/badge/IDE-Android_Studio-informational?style=flat&logo=android&logoColor=white&color=3DDC84)
-![](https://img.shields.io/badge/Other-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=00979D)
+![](https://img.shields.io/badge/PaaS-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=%23430098)
+![](https://img.shields.io/badge/CI-Github_Actions-informational?style=flat&logo=github-actions&logoColor=white&color=2088FF)
+![](https://img.shields.io/badge/Methodology-Agile%2FScrum-informational?style=flat&logo=agile&logoColor=white&color=02569B)
 
 ## &#x1f4c8; GitHub Stats
 
