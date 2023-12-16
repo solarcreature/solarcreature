@@ -1,7 +1,3 @@
-## 🎧 Currently Vibing To: <br></samp>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=a0mlfz3rt5z8c728j7v2maav6&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile) <br>
-
-
 ## 🔧 Technologies & Tools
 #### Languages:
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=ffdd54&color=3670A0)
